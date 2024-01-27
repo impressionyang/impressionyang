@@ -1,6 +1,6 @@
 # looooooove cooooooooding
 
-<img width=100% src="https://swg.notion.pet/s/bg-7027b654659b912c0626a7117f97ac5b" style="min-width:100px;width:100%;min-height:100px;height:300px">
+<img width=100% src="https://swg.notion.pet/s/bg-7027b654659b912c0626a7117f97ac5b" style="min-height:100px;height:300px">
 
 <img width=100% src="https://github-readme-stats.vercel.app/api?username=impressionyang&show_icons=true&icon_color=1985ce&text_color=718096&bg_color=ffffff&hide_title=true" />
 
